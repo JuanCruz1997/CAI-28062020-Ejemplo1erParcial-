@@ -1,0 +1,11 @@
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\bin\Debug\Datos.dll
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\bin\Debug\Datos.pdb
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\bin\Debug\Entidades.dll
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\bin\Debug\Entidades.pdb
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\obj\Debug\Datos.dll
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Datos\obj\Debug\Datos.pdb

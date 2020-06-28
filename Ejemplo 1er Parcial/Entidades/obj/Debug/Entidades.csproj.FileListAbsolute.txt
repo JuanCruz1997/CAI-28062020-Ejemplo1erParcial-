@@ -1,0 +1,6 @@
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Juan Cruz\Documents\Visual Studio 2019\CAI\CAI-28062020-Ejemplo1erParcial-\Ejemplo 1er Parcial\Entidades\obj\Debug\Entidades.pdb
