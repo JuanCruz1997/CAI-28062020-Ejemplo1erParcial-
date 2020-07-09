@@ -39,7 +39,7 @@ namespace Datos
         }
         public List<Prestamo> TraerTodos()
         {
-            string json = WebHelper.Get("api/v1/prestamo/" + ConfigurationManager.AppSettings["Legajo"]);
+            string json = WebHelper.Get("api/v1/prestamo/");
             List<Prestamo> resultadoMapeo = MapList(json);
             return resultadoMapeo;
         }
